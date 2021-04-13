@@ -10,7 +10,7 @@ export function SearchBox() {
       px="8"
       ml="6"
       maxW={400}
-      alignSelf-="center"
+      alignself-="center"
       color="gray.200"
       position="relative"
       bg="gray.800"
